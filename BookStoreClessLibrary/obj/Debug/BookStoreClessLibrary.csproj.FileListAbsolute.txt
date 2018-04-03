@@ -1,0 +1,6 @@
+C:\Users\Kateryna\Documents\Programming\Programming\DotNet\WCF\DataContracts\BookStoreClessLibrary\bin\Debug\BookStoreClessLibrary.dll
+C:\Users\Kateryna\Documents\Programming\Programming\DotNet\WCF\DataContracts\BookStoreClessLibrary\bin\Debug\BookStoreClessLibrary.pdb
+C:\Users\Kateryna\Documents\Programming\Programming\DotNet\WCF\DataContracts\BookStoreClessLibrary\obj\Debug\BookStoreClessLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Kateryna\Documents\Programming\Programming\DotNet\WCF\DataContracts\BookStoreClessLibrary\obj\Debug\BookStoreClessLibrary.dll
+C:\Users\Kateryna\Documents\Programming\Programming\DotNet\WCF\DataContracts\BookStoreClessLibrary\obj\Debug\BookStoreClessLibrary.pdb
+C:\Users\Kateryna\Documents\Programming\Programming\DotNet\WCF\DataContracts\BookStoreClessLibrary\obj\Debug\BookStoreClessLibrary.csproj.CoreCompileInputs.cache

@@ -1,0 +1,5 @@
+features v0.01
+1. cool selections - only when in focus
+2. awesome sorting 1 or 2 params
+3. Awesome app icon
+4. Handled initial db creation - you can't add starting data twice: only when first initializing app.

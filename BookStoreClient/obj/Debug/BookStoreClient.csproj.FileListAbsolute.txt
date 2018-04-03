@@ -1,0 +1,12 @@
+C:\Users\Kateryna\Documents\Programming\Programming\DotNet\WCF\DataContracts\BookStoreClient\bin\Debug\BookStoreClient.exe.config
+C:\Users\Kateryna\Documents\Programming\Programming\DotNet\WCF\DataContracts\BookStoreClient\bin\Debug\BookStoreClient.exe
+C:\Users\Kateryna\Documents\Programming\Programming\DotNet\WCF\DataContracts\BookStoreClient\bin\Debug\BookStoreClient.pdb
+C:\Users\Kateryna\Documents\Programming\Programming\DotNet\WCF\DataContracts\BookStoreClient\obj\Debug\BookStoreClient.csprojResolveAssemblyReference.cache
+C:\Users\Kateryna\Documents\Programming\Programming\DotNet\WCF\DataContracts\BookStoreClient\obj\Debug\BookStoreClient.Client.resources
+C:\Users\Kateryna\Documents\Programming\Programming\DotNet\WCF\DataContracts\BookStoreClient\obj\Debug\BookStoreClient.Properties.Resources.resources
+C:\Users\Kateryna\Documents\Programming\Programming\DotNet\WCF\DataContracts\BookStoreClient\obj\Debug\BookStoreClient.csproj.GenerateResource.Cache
+C:\Users\Kateryna\Documents\Programming\Programming\DotNet\WCF\DataContracts\BookStoreClient\obj\Debug\BookStoreClient.exe
+C:\Users\Kateryna\Documents\Programming\Programming\DotNet\WCF\DataContracts\BookStoreClient\obj\Debug\BookStoreClient.pdb
+C:\Users\Kateryna\Documents\Programming\Programming\DotNet\WCF\DataContracts\BookStoreClient\bin\Debug\BookStoreClessLibrary.dll
+C:\Users\Kateryna\Documents\Programming\Programming\DotNet\WCF\DataContracts\BookStoreClient\bin\Debug\BookStoreClessLibrary.pdb
+C:\Users\Kateryna\Documents\Programming\Programming\DotNet\WCF\DataContracts\BookStoreClient\obj\Debug\BookStoreClient.csproj.CoreCompileInputs.cache
